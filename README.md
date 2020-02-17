@@ -34,7 +34,8 @@ intended to be played between user and computer itself. Also, with the
 algorithm you create, you’re expected to make the computer play the game
 with reasonable moves rather than random moves. The most important of
 all, we want you to create a program that is built by dividing the game into
-pieces and building modules and importing the modules.
+pieces and building modules and importing the modules.(we want 5*5 table and 2 ship ,
+one of them 3 dots ship and the other 2 dots ship, the ship destroyed in one hit)
 
 # Question 6
 Write a calculator program using try except blocks.
